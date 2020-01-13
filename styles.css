@@ -1,0 +1,30 @@
+body {
+  background-color: #B0E0E6;
+  color: #323232;
+}
+hr {
+  border-style: dotted;
+  border-color: #0f4c75;
+  border-top-style: none;
+  border-bottom-width: 5px;
+  height: 0px;
+  width: 10%;
+}
+h3 {
+display: block;
+font-size: 1.3em;
+margin-top: 0.83em;
+margin-bottom: 0.83em;
+margin-left: 0;
+margin-right: 0;
+font-weight: normal;
+}
+h2{
+color:  #0f4c75;
+word-spacing: 10px;
+font-size: 35px;
+text-decoration: underline;
+}
+img {
+
+}
