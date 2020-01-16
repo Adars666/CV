@@ -29,14 +29,14 @@ font-family: Gill Sans, Verdana;
 }
 h2 {
 color:  #3fc5f0;
-word-spacing: 10px;
-font-size: 50px;
+word-spacing: 15px;
+font-size: 55px;
 text-align: center;
 font-family: times, Times New Roman, times-roman, georgia, serif;
  margin: 0;
  padding: 0px 0px 6px 0px;
  line-height: 44px;
- letter-spacing: -2px;
+ letter-spacing: -1px;
  font-weight: bold;
 }
 table {
@@ -53,4 +53,12 @@ td {
 }
 p {
   text-align:left;
+}
+img{
+  border-radius: 40%;
+}
+
+/*************CLASS SELECTORS*************/
+.profile{
+  text-align: right;
 }
