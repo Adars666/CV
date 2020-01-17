@@ -2,7 +2,7 @@ body {
   vertical-align: middle;
   background-color: #e4f9ff;
   color: #323232;
-  font-size: 20px;
+  font-size: 25px;
 }
 hr {
   border-style: dotted;
@@ -45,7 +45,7 @@ width: 100%;
 height: 50px;
 }
 th {
-  text-align: ;
+  text-align:center ;
   width: 50%;
 }
 td {
@@ -61,4 +61,10 @@ img{
 /*************CLASS SELECTORS*************/
 .profile{
   text-align: right;
+}
+.Homepagebutton{
+  text-align: left;
+}
+.anchoremoji{
+  text-align: center;
 }
